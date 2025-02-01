@@ -15,3 +15,7 @@ This is an AI-powered Python tutor designed to help children learn basic Python 
 1. Install dependencies: pip install streamlit openai
 2. Run the app: streamlit run app.py
 3. Enter your OpenAI API key in the settings.
+
+
+# Backend(Optional)
+If you want to use Flask or FastAPI for more advanced features (e.g., saving user progress), here's a basic Flask setup
